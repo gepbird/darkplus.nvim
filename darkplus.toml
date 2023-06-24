@@ -125,7 +125,7 @@ TabLineSel = 'fg line'
 TabLineFill = 'line line'
 
 [Code]
-Comment = 'context'
+Comment = 'green'
 Variable = 'light_blue'
 String = 'orange'
 Character = 'orange'
@@ -166,7 +166,7 @@ PreCondit = 'purple'
 Special = 'orange'
 
 [Treesitter]
-TSComment = 'green - i'
+TSComment = 'link:Comment'
 TSVariable = 'link:Variable'
 TSString = 'link:String'
 TSStringRegex = 'link:String'
